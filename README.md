@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi I am Thomas 👋
 
+I am a 2025 graduate of the University of Iowa with a bachelors degree in Business Analytics and Information Systems. My following repositories are mainly from my classes.
 <!--
 **tommyjaeger11/tommyjaeger11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
